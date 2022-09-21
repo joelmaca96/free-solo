@@ -83,6 +83,7 @@ export default class Resume extends Component {
                       <li>
                         <span
                           className={`bar-expand ${item.skillname.toLowerCase()}`}
+                          style={{'paddingRight': item.percent}}
                         ></span>
                         <em>{item.skillname}</em>
                       </li>

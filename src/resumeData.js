@@ -101,12 +101,15 @@ let resumeData = {
   skills: [
     {
       skillname: "Programming [C/C++ and Python]",
+      percent: 500,
     },
     {
       skillname: "Proyect management",
+      percent: 400,
     },
     {
       skillname: "Technical research",
+      percent: 450,
     },
   ],
   portfolio: [
