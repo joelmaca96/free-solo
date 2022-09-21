@@ -7,7 +7,7 @@ Mi custom portfolio web-page built with React.
 
 | Functionality| Developed | Developing | not supported yet |
 | -------------- | :---------: | :-----------: | :-------------: |
-| `About Me | ✖️ |
+| `About Me` | ✖️ |
 | `Studies` | ✖️ |
 | `Work` | ✖️ | |
 | `Social network links` | ✖️ | |
